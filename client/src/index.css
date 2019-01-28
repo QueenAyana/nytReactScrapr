@@ -7,3 +7,33 @@ html, body, #root {
   padding: 0;
   margin: 0;
 }
+
+.jumbotron{
+  color: #383f44 !important;
+  background-color: burlywood !important;
+  font-family: cursive;
+
+}
+
+.card{
+  color: #383f44 !important;
+  background-color: burlywood !important;
+  font-family: cursive;
+  
+}
+.card-header{
+  color: #383f44 !important;
+  font-family: cursive;
+  font-size: 14pt;
+  border-color: aliceblue;
+}
+
+body{
+  background-color: #383f44 !important;
+  font-family: cursive;
+}
+
+.btn{
+  font-family: cursive;
+  color: burlywood;
+}

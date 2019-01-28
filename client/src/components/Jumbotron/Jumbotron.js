@@ -4,9 +4,9 @@ import "./Jumbotron.css";
 const Jumbotron = () => {
   return(
     <div className="jumbotron container">
-      <h1>New York Times Article Scrubber</h1>
+      <h1>New York Times Article Scraper</h1>
       <hr/>
-      <h4>search for and annotate articles of interest!</h4>
+      <h4>Search for and Save any articles of interest from the New York Times! </h4>
     </div>
   )
 };

@@ -1,4 +1,4 @@
-<h1 align="center"><strong>New York Times React Article Scrubber</strong></h1>
+<h1 align="center"><strong>New York Times React Article Scraper</strong></h1>
 
 ### Overview
 
@@ -6,7 +6,7 @@
 
 ## Demo the App
 
-*NYT React Article Scrubber* is deployed on Heroku. Demo the application [here](https://nytreactscraperapp.herokuapp.com/).
+<!-- *NYT React Article Scrubber* is deployed on Heroku. Demo the application [here](). -->
 - (Note: There will be a momentary delay when first accessing the Heroku servers.)
 
 
@@ -14,7 +14,7 @@
 
 To install the application locally:
 1. Clone this repository to your local machine:
-- `https://github.com/savannahcarr/nyt-react-search.git`
+- `https://github.com/QueenAyana/nytReactScrapr`
 
 2. `cd` into the repository and execute the following in the bash terminal:
 - Start the MongoDB server: `mongod`
