@@ -6,7 +6,7 @@
 
 ## Demo the App
 
-<!-- *NYT React Article Scrubber* is deployed on Heroku. Demo the application [here](). -->
+<!-- *NYT React Article Scrubber* is deployed on Heroku. Demo the application [here](https://sleepy-temple-44954.herokuapp.com/). -->
 - (Note: There will be a momentary delay when first accessing the Heroku servers.)
 
 
